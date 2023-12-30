@@ -8,6 +8,8 @@ The Pizzas table contains the size and price for each distinct pizza in the Orde
 The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients.
 
 
+<img width="779" alt="PIZZA" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/8ec3843d-bbcd-40ca-8e11-2756ee4f20d6">
+
 <img width="866" alt="data model-1" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/a2637e6a-9fb2-457b-acc4-11959d9d7e1a">
 
 <img width="794" alt="pizza dashboard-2" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/207984a8-976a-4871-88b6-d58806f9d6d0">
