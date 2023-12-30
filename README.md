@@ -33,12 +33,13 @@ The Pizza Types table contains details on the pizza types in the Pizzas table, i
 <img width="245" alt="Top 5 Selling_pizzaz-8" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/6255325c-7768-497c-8361-f0be7a60f44f">
 
 <img width="237" alt="Top 5 bottom_pizzaz-9" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/45dee55a-8cbf-4798-bfd0-861511dd18d1">
-<img width="898" alt="Insight from pizza Data" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/e29efedc-0d27-4dac-85e6-1c2ca16ffd67">
-
-<img width="896" alt="Reccommendations" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/2bec5c6b-7c42-4cf3-8ef2-c8806ca10651">
 
 <img width="788" alt="Order by day of the week-10" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/6bf15792-8e93-4f7c-ba5f-bfe7fc2b38d4">
 
 <img width="797" alt="Order by hour-11" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/9e5b8798-b61a-436c-9773-d1635604bf56">
 
 <img width="795" alt="Order by time of the day-12" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/defe1115-d3e0-4e0c-9053-d0c536b37083">
+
+<img width="898" alt="Insight from pizza Data" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/e29efedc-0d27-4dac-85e6-1c2ca16ffd67">
+
+<img width="896" alt="Reccommendations" src="https://github.com/s1e2a3/Pizzaz_Sales_Analysis/assets/109803795/2bec5c6b-7c42-4cf3-8ef2-c8806ca10651">
